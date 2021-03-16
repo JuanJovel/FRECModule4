@@ -18,5 +18,4 @@ download_phenocam <- function(URL) {
 
 }
 
-}
 
