@@ -1,5 +1,3 @@
-
-
 ##' Download Phenocam data
 ##' 
 ##' @param URL  web address where data is located
@@ -17,4 +15,8 @@ download_phenocam <- function(URL) {
   } else {
     print(paste("download.phenocam: Input URL not provided correctly", URL))
   }
+
 }
+
+}
+
